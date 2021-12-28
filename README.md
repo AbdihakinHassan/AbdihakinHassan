@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Science and Web development
 - 💞️ I’m looking to collaborate on  with other content creators specially Data analytics/Data science/Machine learning/Web development
 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me @ a.hakinhassan@gmail.com linkedIn: www.linkedin.com/in/ 
-hassan-abdihakin
+- 📫 How to reach me @ a.hakinhassan@gmail.com linkedIn: www.linkedin.com/in/hassan-abdihakin
 
 
 <!---
